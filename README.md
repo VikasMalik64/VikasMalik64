@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vikas Malik</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VikasMalik64&label=Profile%20views&color=red&style=plastic" alt="VikasMalik64" /> </p>
+<div id="header" align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vikasmalik64&style=for-the-badge&color=orange" alt=""/>
 
 - 🌱 I’m currently learning **Python**
 
@@ -20,6 +21,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
-| Python3 | Postgres | Pandas |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> |
+| Python3 | Postgres | Pandas | Conda | Jupyter |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|
+
+
+</div>
+
+---
+
+<p align="center">
+ <img width="1000" src="Assets/github-snake.svg" alt="snake"/>
+</p>
